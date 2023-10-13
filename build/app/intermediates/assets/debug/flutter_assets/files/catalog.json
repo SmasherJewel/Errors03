@@ -1,0 +1,36 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "realme C55",
+            "desc": "(Sunshower, 64 GB)  (4 GB RAM)",
+            "price": 179,
+            "color": "Sunshower",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/z/x/x/-original-imagp55frhhddu6n.jpeg?"
+        },
+        {
+            "id": 2,
+            "name": "POCO M6 Pro 5G ",
+            "desc": "(Power Black, 64 GB)  (4 GB RAM)",
+            "price": 219,
+            "color": "Power Black",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?"
+        },
+        {         
+            "id": 3,
+            "name": "SAMSUNG Galaxy Z Fold5 ",
+            "desc": "(Phantom Black, 512 GB)  (12 GB RAM)",
+            "price": 599,
+            "color": "Phantom Black",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/x/i/galaxy-fold5-sm-f946bzkdins-samsung-original-imagru9nrhhmd9hz.jpeg?"
+        },
+        {          
+            "id": 4,
+            "name": "APPLE iPhone 12",
+            "desc": "(Purple, 64 GB)",
+            "price": 389,
+            "color": "Purple",
+            "image": "https://rukminim2.flixcart.com/image/416/416/ko0d6kw0/mobile/6/h/y/iphone-12-mjnm3hn-a-apple-original-imag2k2v6ehvnzfd.jpeg?"
+        }
+    ]
+}
